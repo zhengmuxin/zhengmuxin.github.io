@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>芝麻馅の小屋</title>
+  <icon>https://zheng-muxin.gitee.io/icon.png</icon>
+  <subtitle>house</subtitle>
+  <link href="https://zheng-muxin.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="https://zheng-muxin.gitee.io/"/>
+  <updated>2024-01-09T14:44:22.000Z</updated>
+  <id>https://zheng-muxin.gitee.io/</id>
+  
+  <author>
+    <name>芝麻馅_</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java--业务场景：在Spring项目启动时加载Java枚举类到Redis中</title>
+    <link href="https://zheng-muxin.gitee.io/posts/jywcjzsxmqdsjzjmjldrz/"/>
+    <id>https://zheng-muxin.gitee.io/posts/jywcjzsxmqdsjzjmjldrz/</id>
+    <published>2024-01-09T12:02:28.000Z</published>
+    <updated>2024-01-09T14:44:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+    <category term="Redis" scheme="https://zheng-muxin.gitee.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java--业务场景：SpringBoot 通过Redis进行IP封禁实现接口防刷</title>
+    <link href="https://zheng-muxin.gitee.io/posts/jywcjstgrjxifjsxjkfs/"/>
+    <id>https://zheng-muxin.gitee.io/posts/jywcjstgrjxifjsxjkfs/</id>
+    <published>2024-01-08T12:02:28.000Z</published>
+    <updated>2024-01-09T14:44:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+    <category term="Redis" scheme="https://zheng-muxin.gitee.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java -- 业务场景：获取请求的ip属地信息</title>
+    <link href="https://zheng-muxin.gitee.io/posts/jywcjhqqqdipsdxx/"/>
+    <id>https://zheng-muxin.gitee.io/posts/jywcjhqqqdipsdxx/</id>
+    <published>2024-01-05T11:20:28.000Z</published>
+    <updated>2024-01-05T12:38:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/categories/Spring/"/>
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mybatis框架--Mybatis中的#{}和${}的区别是什么？</title>
+    <link href="https://zheng-muxin.gitee.io/posts/mkjmzd#h$dqbssm/"/>
+    <id>https://zheng-muxin.gitee.io/posts/mkjmzd#h$dqbssm/</id>
+    <published>2024-01-01T02:02:28.000Z</published>
+    <updated>2024-01-09T14:44:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Mybatis" scheme="https://zheng-muxin.gitee.io/categories/Mybatis/"/>
+    
+    
+    <category term="Mybatis" scheme="https://zheng-muxin.gitee.io/tags/Mybatis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录 -- 学术科技节续写比赛作品记录</title>
+    <link href="https://zheng-muxin.gitee.io/posts/xskjjxxbszp/"/>
+    <id>https://zheng-muxin.gitee.io/posts/xskjjxxbszp/</id>
+    <published>2023-12-26T11:22:28.000Z</published>
+    <updated>2023-12-26T13:10:41.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="记录" scheme="https://zheng-muxin.gitee.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="作品" scheme="https://zheng-muxin.gitee.io/tags/%E4%BD%9C%E5%93%81/"/>
+    
+    <category term="作文" scheme="https://zheng-muxin.gitee.io/tags/%E4%BD%9C%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java--业务场景：敏感词过滤代码实现（Fastjson配置全局序列化 @JSONField注解的serializeUsing属性）</title>
+    <link href="https://zheng-muxin.gitee.io/posts/jywcjmgcdmgl/"/>
+    <id>https://zheng-muxin.gitee.io/posts/jywcjmgcdmgl/</id>
+    <published>2023-12-23T07:02:28.000Z</published>
+    <updated>2023-12-23T13:22:18.000Z</updated>
+    
+    
+    <summary type="html">在项目里加入敏感词过滤吧</summary>
+    
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+    <category term="业务场景" scheme="https://zheng-muxin.gitee.io/tags/%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF/"/>
+    
+    <category term="FastJson" scheme="https://zheng-muxin.gitee.io/tags/FastJson/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java基础--static，final关键字作用与区别</title>
+    <link href="https://zheng-muxin.gitee.io/posts/jcjsfgjzzyyqb/"/>
+    <id>https://zheng-muxin.gitee.io/posts/jcjsfgjzzyyqb/</id>
+    <published>2023-12-21T10:27:40.000Z</published>
+    <updated>2023-12-21T10:56:18.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+    <category term="Java基础" scheme="https://zheng-muxin.gitee.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis--Redis的过期策略和内存淘汰机制</title>
+    <link href="https://zheng-muxin.gitee.io/posts/rrdgqclhcnttjz/"/>
+    <id>https://zheng-muxin.gitee.io/posts/rrdgqclhcnttjz/</id>
+    <published>2023-12-20T11:22:28.000Z</published>
+    <updated>2023-12-23T06:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="https://zheng-muxin.gitee.io/categories/Redis/"/>
+    
+    
+    <category term="Redis" scheme="https://zheng-muxin.gitee.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java框架--SpringMVC（工作原理，常用注解）的学习笔记</title>
+    <link href="https://zheng-muxin.gitee.io/posts/jsgzylcyzjdxxbj/"/>
+    <id>https://zheng-muxin.gitee.io/posts/jsgzylcyzjdxxbj/</id>
+    <published>2023-12-19T11:48:39.000Z</published>
+    <updated>2023-12-23T06:03:24.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/categories/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+    <category term="Spring MVC" scheme="https://zheng-muxin.gitee.io/tags/Spring-MVC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GraphQL -- GraphQL入门，与SpringBoot整合，并用Postman测试接口</title>
+    <link href="https://zheng-muxin.gitee.io/posts/grmyszhbypcsjk/"/>
+    <id>https://zheng-muxin.gitee.io/posts/grmyszhbypcsjk/</id>
+    <published>2023-12-18T14:58:39.000Z</published>
+    <updated>2023-12-23T13:22:18.000Z</updated>
+    
+    
+    <summary type="html">GraphQL的快速入门</summary>
+    
+    
+    
+    <category term="GraphQL" scheme="https://zheng-muxin.gitee.io/categories/GraphQL/"/>
+    
+    
+    <category term="GraphQL" scheme="https://zheng-muxin.gitee.io/tags/GraphQL/"/>
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Postman" scheme="https://zheng-muxin.gitee.io/tags/Postman/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录 -- 个人博客搭建</title>
+    <link href="https://zheng-muxin.gitee.io/posts/grbkdj/"/>
+    <id>https://zheng-muxin.gitee.io/posts/grbkdj/</id>
+    <published>2023-12-18T11:22:28.000Z</published>
+    <updated>2023-12-26T13:10:41.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="记录" scheme="https://zheng-muxin.gitee.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="博客" scheme="https://zheng-muxin.gitee.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Hexo" scheme="https://zheng-muxin.gitee.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Oracle--查出某个特定值在哪些表的哪些字段中出现，并将结果存入新表</title>
+    <link href="https://zheng-muxin.gitee.io/posts/occmgtdzznxbdnxzdzcxbjjgcrxb/"/>
+    <id>https://zheng-muxin.gitee.io/posts/occmgtdzznxbdnxzdzcxbjjgcrxb/</id>
+    <published>2023-12-17T13:02:28.000Z</published>
+    <updated>2023-12-23T13:22:18.000Z</updated>
+    
+    
+    <summary type="html">在Oracle表里找出“ta”</summary>
+    
+    
+    
+    <category term="数据库" scheme="https://zheng-muxin.gitee.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="SQL" scheme="https://zheng-muxin.gitee.io/tags/SQL/"/>
+    
+    <category term="Oracle" scheme="https://zheng-muxin.gitee.io/tags/Oracle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java框架--Spring（事务，@Transactional）的学习笔记</title>
+    <link href="https://zheng-muxin.gitee.io/posts/jkjsswdxxbj/"/>
+    <id>https://zheng-muxin.gitee.io/posts/jkjsswdxxbj/</id>
+    <published>2023-12-17T08:48:39.000Z</published>
+    <updated>2023-12-19T12:38:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/categories/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+    <category term="数据库" scheme="https://zheng-muxin.gitee.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL--查出某个特定值在哪些表的哪些字段中出现，并将结果存入新表</title>
+    <link href="https://zheng-muxin.gitee.io/posts/mccmgtdzznxbdnxzdzcxbjjgcrxb/"/>
+    <id>https://zheng-muxin.gitee.io/posts/mccmgtdzznxbdnxzdzcxbjjgcrxb/</id>
+    <published>2023-12-17T07:02:28.000Z</published>
+    <updated>2023-12-23T13:22:18.000Z</updated>
+    
+    
+    <summary type="html">在MySQL表里找出“ta”</summary>
+    
+    
+    
+    <category term="数据库" scheme="https://zheng-muxin.gitee.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="SQL" scheme="https://zheng-muxin.gitee.io/tags/SQL/"/>
+    
+    <category term="MySQL" scheme="https://zheng-muxin.gitee.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java--项目引入Swagger、knife4j文档，Swagger配置类设置，Swagger注解介绍</title>
+    <link href="https://zheng-muxin.gitee.io/posts/jxmyrskspzlszszjjs/"/>
+    <id>https://zheng-muxin.gitee.io/posts/jxmyrskspzlszszjjs/</id>
+    <published>2023-12-17T06:48:39.000Z</published>
+    <updated>2023-12-23T05:55:01.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java基础--String（）创建了几个对象，String字符串==比较</title>
+    <link href="https://zheng-muxin.gitee.io/posts/scjljgdxszfcbj/"/>
+    <id>https://zheng-muxin.gitee.io/posts/scjljgdxszfcbj/</id>
+    <published>2023-12-17T03:42:28.000Z</published>
+    <updated>2023-12-23T06:03:01.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+    <category term="Java基础" scheme="https://zheng-muxin.gitee.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java基础--接口和抽象类的区别（接口中的默认，静态，私有方法）的学习笔记</title>
+    <link href="https://zheng-muxin.gitee.io/posts/javajcjkhcxldqb/"/>
+    <id>https://zheng-muxin.gitee.io/posts/javajcjkhcxldqb/</id>
+    <published>2023-12-17T03:27:40.000Z</published>
+    <updated>2023-12-18T14:46:14.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
+    
+    <category term="Java基础" scheme="https://zheng-muxin.gitee.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+</feed>

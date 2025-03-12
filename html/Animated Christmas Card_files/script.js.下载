@@ -1,0 +1,1 @@
+$(document).ready(function(){var a=$(".click-icon");$(".card").on("click",function(){$(this).toggleClass("is-opened"),a.toggleClass("is-hidden")})})
