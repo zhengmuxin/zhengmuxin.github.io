@@ -6,7 +6,7 @@
   <link href="https://zheng-muxin.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://zheng-muxin.gitee.io/"/>
-  <updated>2025-03-13T10:35:29.403Z</updated>
+  <updated>2025-03-17T14:44:34.470Z</updated>
   <id>https://zheng-muxin.gitee.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>软件测试--如何使用har2case和HttpRunner + Allure生成测试报告</title>
+    <link href="https://zheng-muxin.gitee.io/posts/rhsyhar2case/"/>
+    <id>https://zheng-muxin.gitee.io/posts/rhsyhar2case/</id>
+    <published>2025-03-17T11:22:28.000Z</published>
+    <updated>2025-03-17T14:44:34.470Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="软件测试" scheme="https://zheng-muxin.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="软件测试" scheme="https://zheng-muxin.gitee.io/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="pytest" scheme="https://zheng-muxin.gitee.io/tags/pytest/"/>
+    
+  </entry>
   
   <entry>
     <title>Java--业务场景：在Spring项目启动时加载Java枚举类到Redis中</title>
@@ -37,9 +64,9 @@
     <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
     
     
-    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
-    
     <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
     
     <category term="Redis" scheme="https://zheng-muxin.gitee.io/tags/Redis/"/>
     
@@ -66,9 +93,9 @@
     <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
     
     
-    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
-    
     <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
     
     <category term="Redis" scheme="https://zheng-muxin.gitee.io/tags/Redis/"/>
     
@@ -79,7 +106,7 @@
     <link href="https://zheng-muxin.gitee.io/posts/jywcjhqqqdipsdxx/"/>
     <id>https://zheng-muxin.gitee.io/posts/jywcjhqqqdipsdxx/</id>
     <published>2024-01-05T11:20:28.000Z</published>
-    <updated>2025-03-13T10:35:29.372Z</updated>
+    <updated>2025-03-17T14:35:59.041Z</updated>
     
     
       
@@ -95,9 +122,9 @@
     <category term="Spring" scheme="https://zheng-muxin.gitee.io/categories/Spring/"/>
     
     
-    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
-    
     <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
     
   </entry>
   
@@ -168,9 +195,9 @@
     <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
     
     
-    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
-    
     <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
     
     <category term="业务场景" scheme="https://zheng-muxin.gitee.io/tags/%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF/"/>
     
@@ -253,9 +280,9 @@
     <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
     
     
-    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
-    
     <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
     
     <category term="Spring MVC" scheme="https://zheng-muxin.gitee.io/tags/Spring-MVC/"/>
     
@@ -276,9 +303,9 @@
     <category term="GraphQL" scheme="https://zheng-muxin.gitee.io/categories/GraphQL/"/>
     
     
-    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
-    
     <category term="GraphQL" scheme="https://zheng-muxin.gitee.io/tags/GraphQL/"/>
+    
+    <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
     
     <category term="Postman" scheme="https://zheng-muxin.gitee.io/tags/Postman/"/>
     
@@ -355,9 +382,9 @@
     <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
     
     
-    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
-    
     <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
     
     <category term="数据库" scheme="https://zheng-muxin.gitee.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
@@ -405,9 +432,9 @@
     <category term="Java" scheme="https://zheng-muxin.gitee.io/categories/Java/"/>
     
     
-    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
-    
     <category term="Spring" scheme="https://zheng-muxin.gitee.io/tags/Spring/"/>
+    
+    <category term="Java" scheme="https://zheng-muxin.gitee.io/tags/Java/"/>
     
   </entry>
   
